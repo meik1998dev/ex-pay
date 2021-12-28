@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ex-pay/static/css/main.fd7f51fd.chunk.css",
-    "main.js": "/ex-pay/static/js/main.288ebb14.chunk.js",
-    "main.js.map": "/ex-pay/static/js/main.288ebb14.chunk.js.map",
+    "main.js": "/ex-pay/static/js/main.29995cd3.chunk.js",
+    "main.js.map": "/ex-pay/static/js/main.29995cd3.chunk.js.map",
     "runtime-main.js": "/ex-pay/static/js/runtime-main.475fa9a9.js",
     "runtime-main.js.map": "/ex-pay/static/js/runtime-main.475fa9a9.js.map",
     "static/css/2.e5cae222.chunk.css": "/ex-pay/static/css/2.e5cae222.chunk.css",
     "static/js/2.f98853ec.chunk.js": "/ex-pay/static/js/2.f98853ec.chunk.js",
     "static/js/2.f98853ec.chunk.js.map": "/ex-pay/static/js/2.f98853ec.chunk.js.map",
     "index.html": "/ex-pay/index.html",
-    "precache-manifest.46fc008467615fef4961fb2de7bda6dc.js": "/ex-pay/precache-manifest.46fc008467615fef4961fb2de7bda6dc.js",
+    "precache-manifest.2d058bb84b39c6ee12429e528654365b.js": "/ex-pay/precache-manifest.2d058bb84b39c6ee12429e528654365b.js",
     "service-worker.js": "/ex-pay/service-worker.js",
     "static/css/2.e5cae222.chunk.css.map": "/ex-pay/static/css/2.e5cae222.chunk.css.map",
     "static/css/main.fd7f51fd.chunk.css.map": "/ex-pay/static/css/main.fd7f51fd.chunk.css.map",
@@ -93,6 +93,6 @@
     "static/css/2.e5cae222.chunk.css",
     "static/js/2.f98853ec.chunk.js",
     "static/css/main.fd7f51fd.chunk.css",
-    "static/js/main.288ebb14.chunk.js"
+    "static/js/main.29995cd3.chunk.js"
   ]
 }
