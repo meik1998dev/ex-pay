@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0bd0410b0dac2a48f1b8b91fb18a8144",
+    "revision": "81b8c1180831a223017483c6b1d76bfa",
     "url": "/ex-pay/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ex-pay/static/css/2.e5cae222.chunk.css"
   },
   {
-    "revision": "1c5fcfbece88b9676b55",
+    "revision": "2bc80812017ecb58fa3d",
     "url": "/ex-pay/static/css/main.fd7f51fd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ex-pay/static/js/2.652328b6.chunk.js"
   },
   {
-    "revision": "1c5fcfbece88b9676b55",
-    "url": "/ex-pay/static/js/main.b93d9eee.chunk.js"
+    "revision": "2bc80812017ecb58fa3d",
+    "url": "/ex-pay/static/js/main.a2f2b1fd.chunk.js"
   },
   {
     "revision": "28dacd6d6bf64cfd0947",
